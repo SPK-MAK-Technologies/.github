@@ -1,5 +1,3 @@
-<!--
-
 # SPK-MAK Technologies
 
 ### Engineering the Future Through Embedded Intelligence
@@ -170,4 +168,3 @@ We welcome collaboration opportunities in:
 ---
 
 **Engineering reliable systems. Building scalable technology. Creating innovative products.**
--->
