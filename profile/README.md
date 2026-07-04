@@ -161,7 +161,7 @@ We welcome collaboration opportunities in:
 
 🌐 Website: *https://spk-mak.com/*
 
-📧 Email: *[support@spkmak.com]
+📧 Email: *[support@spkmak.com]*
 
 💼 LinkedIn: *Coming Soon*
 
